@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#head{
+    color: rgb(255, 255, 255);
+    font-family: monospace,monaco;
+    text-align: center;
+    font-size: 45px;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 1px;
+    position: absolute;
+    top: 5%;
+    left: 35%;
+}
+#webbackground{
+    position: relative;
+    top: 0px;
+    left:0px;
+    image-resolution: 384px, 216px;
+}
+#gamesbutton{
+    color: white;
+    border-radius: 50px;
+    border-spacing: 50%;
+    font-weight: 20px;
+    font-size: 50px;
+    border-style: double;
+    background-color: rgb(0, 83, 208);
+    width: 180px;
+    height: 80px;
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    left: 45%;
+}
+#myyoutube{
+    border-style: double;
+    border-radius:50px;
+    color: white;
+    background-color: red;
+    font-size: 50px;
+    font-weight: 20px;
+    cursor: pointer;
+    width: 300px;
+    height: 80px;
+    position: absolute;
+    top: 50%;
+    left: 10%;
+}
+#extra{
+    border-style: double;
+    border-radius:50px;
+    color: white;
+    background-color: rgb(9, 152, 9);
+    font-size: 50px;
+    font-weight: 20px;
+    cursor: pointer;
+    width: 180px;
+    height: 80px;
+    position: absolute;
+    top: 50%;
+    left: 80%;
+}
+#pongbutton{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 350px;
+    height: 300px;
+    cursor: pointer;
+}
+#pongimg{
+    width: 350px;
+    height: 300px;
+}
